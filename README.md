@@ -187,16 +187,14 @@ It is designed to be fully reproducible, explainable, and extensible.
 <!-- Data / ML Libraries -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" />
 
 <!-- Matplotlib (PNG, visible on dark) -->
-<img src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib.png" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45" />
 
 <!-- Seaborn (transparent -> use logo with white frame) -->
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="45" />
 
-<!-- XGBoost -->
-<img src="https://raw.githubusercontent.com/dmlc/web-data/master/xgboost/logo/xgboost.png" height="45" />
 
 <!-- Tools -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45" />

@@ -178,25 +178,27 @@ It is designed to be fully reproducible, explainable, and extensible.
 
 <div align="center">
 
-<!-- Core Languages -->
-<img src="https://skillicons.dev/icons?i=python" height="50" />
-<img src="https://skillicons.dev/icons?i=jupyter" height="50" />
+<!-- Languages -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="45" />
 
-<!-- Data & ML Libraries -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" />
-<img src="https://numpy.org/images/logo.svg" height="45" />
-<img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" height="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matplotlib_logo.svg" height="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45" />
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45" />
+<!-- Data / ML Libraries -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" height="45" />
 
-<!-- ML Models -->
-<img src="https://raw.githubusercontent.com/dmlc/xgboost/master/doc/logo/xgboost-logo.png" height="45" />
+<!-- Visualization -->
+<img src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib.png" height="45" />
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="45" />
+
+<!-- Boosted Models -->
+<img src="https://raw.githubusercontent.com/dmlc/web-data/master/xgboost/logo/xgboost.png" height="45" />
 
 <!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git" height="50" />
-<img src="https://skillicons.dev/icons?i=github" height="50" />
-<img src="https://skillicons.dev/icons?i=vscode" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="45" />
+
 
 </div>
 

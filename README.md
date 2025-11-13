@@ -1,14 +1,14 @@
 
 
-<h1 align="center"><b>Tail Risk Management</b></h1>
-<h3 align="center">A Risk-Aware Ensemble Framework for Predicting Catastrophic Insurance Losses</h3>
+<h1><b>Tail Risk Management</b></h1>
+<h3>A Risk-Aware Ensemble Framework for Predicting Catastrophic Insurance Losses</h3>
 
-<p align="center">
+<p>
 Predicting average losses is easy—forecasting the <b>catastrophic</b> ones is what keeps insurers up at night.  
 Tail Risk Management introduces a modern, risk-sensitive modeling pipeline that goes beyond MSE to focus on heavy-tailed claim behavior using <b>Loss-at-Risk (LaR)</b>, <b>CVaR</b>, and a <b>Tail-Aware Meta-Ensemble</b>.
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-3.10+-skyblue?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-Notebooks-orange?style=for-the-badge&logo=jupyter"/>
@@ -23,7 +23,7 @@ Tail Risk Management introduces a modern, risk-sensitive modeling pipeline that 
 
 <!-- ============================================================= -->
 
-<h2 align="center">Overview</h2>
+<h2>Overview</h2>
 
 Tail Risk Management is a quantitative modeling framework built to answer a crucial question in actuarial science:
 
@@ -47,9 +47,9 @@ It is designed to be fully reproducible, explainable, and extensible.
 
 <!-- ============================================================= -->
 
-<h2 align="center">Key Features</h2>
+<h2>Key Features</h2>
 
-<div align="center">
+<div>
 
 | Category               | Description                                                 |
 | ---------------------- | ----------------------------------------------------------- |
@@ -70,9 +70,9 @@ It is designed to be fully reproducible, explainable, and extensible.
 
 <!-- ============================================================= -->
 
-<h2 align="center">Dataset</h2>
+<h2>Dataset</h2>
 
-<p align="center">
+<p>
 <a href="https://data.mendeley.com/datasets/5cxyb5fp4f/2">
   <img src="https://img.shields.io/badge/Mendeley%20Dataset-Automobile%20Insurance-blue?style=for-the-badge&logo=databricks" />
 </a>
@@ -91,9 +91,9 @@ It is designed to be fully reproducible, explainable, and extensible.
 
 <!-- ============================================================= -->
 
-<h2 align="center">Modeling Pipeline</h2>
+<h2>Modeling Pipeline</h2>
 
-<div align="center">
+<div>
 
 <table>
 <tr>
@@ -150,9 +150,9 @@ It is designed to be fully reproducible, explainable, and extensible.
 
 <!-- ============================================================= -->
 
-<h2 align="center">Performance Summary</h2>
+<h2>Performance Summary</h2>
 
-<div align="center">
+<div>
 
 | Model                      | Overall MSE            | Extreme Tail MSE (99th pct) | CVaR Loss (95%) |
 | -------------------------- | ---------------------- | --------------------------- | --------------- |
@@ -176,7 +176,7 @@ It is designed to be fully reproducible, explainable, and extensible.
 <!-- ============================================================= -->
 ## Tech Stack
 
-<div align="center">
+<div>
 
 ## Tech Stack
 
@@ -212,9 +212,9 @@ It is designed to be fully reproducible, explainable, and extensible.
 
 <!-- ============================================================= -->
 
-<h2 align="center">Ongoing Research Directions</h2>
+<h2>Ongoing Research Directions</h2>
 
-<div align="center">
+<div>
 
 * Tail-focused Gradient Boosting (Quantile Loss)
 * Neural networks trained directly on CVaR loss
@@ -233,7 +233,7 @@ It is designed to be fully reproducible, explainable, and extensible.
 
 <!-- ============================================================= -->
 
-<h2 align="center">Acknowledgements</h2>
+<h2>Acknowledgements</h2>
 
 Dataset provided by
 **Mendeley Data – Automobile Insurance Claims (Version 2)**

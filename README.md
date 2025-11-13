@@ -178,8 +178,10 @@ It is designed to be fully reproducible, explainable, and extensible.
 
 <div align="center">
 
+## Tech Stack
+
 <!-- Languages -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="45" />
 
 <!-- Data / ML Libraries -->
@@ -187,11 +189,13 @@ It is designed to be fully reproducible, explainable, and extensible.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" height="45" />
 
-<!-- Visualization -->
+<!-- Matplotlib (PNG, visible on dark) -->
 <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib.png" height="45" />
+
+<!-- Seaborn (transparent -> use logo with white frame) -->
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="45" />
 
-<!-- Boosted Models -->
+<!-- XGBoost -->
 <img src="https://raw.githubusercontent.com/dmlc/web-data/master/xgboost/logo/xgboost.png" height="45" />
 
 <!-- Tools -->

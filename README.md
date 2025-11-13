@@ -158,7 +158,6 @@ This project is **fully reproducible**, **statistically rigorous**, and aligned 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="45" />
 </p>
----
 
 ## Research Directions
 

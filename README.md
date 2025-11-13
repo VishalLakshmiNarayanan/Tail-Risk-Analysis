@@ -4,7 +4,7 @@
 <h3>A Risk-Aware Ensemble Framework for Predicting Catastrophic Insurance Losses</h3>
 
 <p>
-Predicting average losses is easy—forecasting the <b>catastrophic</b> ones is what keeps insurers up at night.  
+Predicting average losses is easy forecasting the <b>catastrophic</b> ones is what keeps insurers up at night.  
 Tail Risk Management introduces a modern, risk-sensitive modeling pipeline that goes beyond MSE to focus on heavy-tailed claim behavior using <b>Loss-at-Risk (LaR)</b>, <b>CVaR</b>, and a <b>Tail-Aware Meta-Ensemble</b>.
 </p>
 
@@ -27,7 +27,7 @@ Tail Risk Management introduces a modern, risk-sensitive modeling pipeline that 
 
 Tail Risk Management is a quantitative modeling framework built to answer a crucial question in actuarial science:
 
-> **“Why do standard ML models fail on large, catastrophic claims—and how can we fix it?”**
+> **“Why do standard ML models fail on large, catastrophic claims and how can we fix it?”**
 
 This project uses a filtered subset (~69K records) of the Mendeley automobile insurance dataset to:
 

@@ -1,17 +1,4 @@
 
----
-
-# **TAIL RISK MANAGEMENT – Optimal GitHub README**
-
-*(Designed in the same visual + structural style you use for your portfolio README)*
-
----
-
-<!-- ============================================================= -->
-
-<!-- ✨ PROJECT HEADER -->
-
-<!-- ============================================================= -->
 
 <h1 align="center"><b>Tail Risk Management</b></h1>
 <h3 align="center">A Risk-Aware Ensemble Framework for Predicting Catastrophic Insurance Losses</h3>
@@ -36,7 +23,7 @@ Tail Risk Management introduces a modern, risk-sensitive modeling pipeline that 
 
 <!-- ============================================================= -->
 
-<h2 align="center">📌 Overview</h2>
+<h2 align="center">Overview</h2>
 
 Tail Risk Management is a quantitative modeling framework built to answer a crucial question in actuarial science:
 
@@ -60,7 +47,7 @@ It is designed to be fully reproducible, explainable, and extensible.
 
 <!-- ============================================================= -->
 
-<h2 align="center">🚀 Key Features</h2>
+<h2 align="center">Key Features</h2>
 
 <div align="center">
 
@@ -83,7 +70,7 @@ It is designed to be fully reproducible, explainable, and extensible.
 
 <!-- ============================================================= -->
 
-<h2 align="center">📊 Dataset</h2>
+<h2 align="center">Dataset</h2>
 
 <p align="center">
 <a href="https://data.mendeley.com/datasets/5cxyb5fp4f/2">
@@ -104,7 +91,7 @@ It is designed to be fully reproducible, explainable, and extensible.
 
 <!-- ============================================================= -->
 
-<h2 align="center">🧠 Modeling Pipeline</h2>
+<h2 align="center">Modeling Pipeline</h2>
 
 <div align="center">
 
@@ -163,7 +150,7 @@ It is designed to be fully reproducible, explainable, and extensible.
 
 <!-- ============================================================= -->
 
-<h2 align="center">📈 Performance Summary</h2>
+<h2 align="center">Performance Summary</h2>
 
 <div align="center">
 
@@ -203,35 +190,7 @@ It is designed to be fully reproducible, explainable, and extensible.
 
 ---
 
-<!-- ============================================================= -->
 
-<!-- 📁 PROJECT STRUCTURE -->
-
-<!-- ============================================================= -->
-
-<h2 align="center">📁 Project Structure</h2>
-
-```
-Tail-Risk-Management/
-│── data/
-│── notebooks/
-│   ├── 01_EDA.ipynb
-│   ├── 02_Baseline_Models.ipynb
-│   ├── 03_LaR_and_CVaR.ipynb
-│   ├── 04_Ensembling.ipynb
-│   ├── 05_MetaLearning_TailAware.ipynb
-│── src/
-│   ├── models/
-│   ├── utils/
-│   ├── losses/
-│── README.md
-│── requirements.txt
-│── report/
-│   ├── TailRisk_Report.tex
-│   ├── figs/
-```
-
----
 
 <!-- ============================================================= -->
 
@@ -239,7 +198,7 @@ Tail-Risk-Management/
 
 <!-- ============================================================= -->
 
-<h2 align="center">📚 Ongoing Research Directions</h2>
+<h2 align="center">Ongoing Research Directions</h2>
 
 <div align="center">
 
@@ -253,24 +212,6 @@ Tail-Risk-Management/
 
 ---
 
-<!-- ============================================================= -->
-
-<!-- 🧪 HOW TO RUN -->
-
-<!-- ============================================================= -->
-
-<h2 align="center">🧪 How to Run</h2>
-
-```
-git clone https://github.com/VishalLakshmiNarayanan/Tail-Risk-Management
-cd Tail-Risk-Management
-pip install -r requirements.txt
-jupyter notebook
-```
-
-Open notebooks in the suggested order for reproducing results.
-
----
 
 <!-- ============================================================= -->
 
@@ -278,21 +219,11 @@ Open notebooks in the suggested order for reproducing results.
 
 <!-- ============================================================= -->
 
-<h2 align="center">🙌 Acknowledgements</h2>
+<h2 align="center">Acknowledgements</h2>
 
 Dataset provided by
 **Mendeley Data – Automobile Insurance Claims (Version 2)**
 Research inspired by actuarial risk modeling and financial tail-risk literature.
-
----
-
-<!-- ============================================================= -->
-
-<!-- ⭐ FOOTER -->
-
-<!-- ============================================================= -->
-
-<h3 align="center">Built with 💡 mathematical rigor, 📊 empirical analysis, and ❤️ for real-world impact.</h3>
 
 ---
 

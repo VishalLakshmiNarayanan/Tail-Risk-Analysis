@@ -174,21 +174,31 @@ It is designed to be fully reproducible, explainable, and extensible.
 <!-- 🛠 TECH STACK -->
 
 <!-- ============================================================= -->
-
-<h2 align="center">🛠 Tech Stack</h2>
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-<img src="https://skillicons.dev/icons?i=sklearn" height="45"/>
-<img src="https://skillicons.dev/icons?i=numpy,pandas" height="45"/>
-<img src="https://skillicons.dev/icons?i=matplotlib" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45"/>
-<img src="https://img.icons8.com/?size=512&id=87488&format=png" height="45"/>
+<!-- Core Languages -->
+<img src="https://skillicons.dev/icons?i=python" height="50" />
+<img src="https://skillicons.dev/icons?i=jupyter" height="50" />
+
+<!-- Data & ML Libraries -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" />
+<img src="https://numpy.org/images/logo.svg" height="45" />
+<img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matplotlib_logo.svg" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45" />
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45" />
+
+<!-- ML Models -->
+<img src="https://raw.githubusercontent.com/dmlc/xgboost/master/doc/logo/xgboost-logo.png" height="45" />
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git" height="50" />
+<img src="https://skillicons.dev/icons?i=github" height="50" />
+<img src="https://skillicons.dev/icons?i=vscode" height="50" />
 
 </div>
-
----
 
 
 
